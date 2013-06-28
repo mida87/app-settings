@@ -1,7 +1,9 @@
 {
 	"files":
 	{
-		"jquery": "http://code.jquery.com/jquery-1.9.1.min.js"
+		"backbone-development": "http://backbonejs.org/backbone.js",
+		"jquery": "http://code.jquery.com/jquery.min.js",
+		"underscore": "http://underscorejs.org/underscore.js"
 	},
 	"packages":
 	{
